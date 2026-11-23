@@ -1,0 +1,5 @@
+thesis_table,wavelength_min_nm,wavelength_max_nm,stack,thickness_nm,weighted_transmittance_percent,Jsc_cap_mA_per_cm2,photons_per_area_per_time
+2.1,300,800,IZO,140,78.7,42.1,1.71e21
+2.1,300,800,IZO/Ag/IZO,45/8/60,85.2,45.7,1.855e21
+2.2,300,1300,IZO,140,71.2,71.2,2.89e21
+2.2,300,1300,IZO/Ag/IZO,45/8/40,80.5,75.6,3.07e21
